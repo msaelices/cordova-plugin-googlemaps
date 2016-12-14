@@ -45,6 +45,7 @@
             </feature>
         </config-file>
 
+        <framework src="com.google.android.gms:9.0.0" />
         <framework src="com.google.android.gms:play-services-maps:10.0.1" />
         <framework src="com.google.android.gms:play-services-location:10.0.1" />
 
